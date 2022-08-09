@@ -1,5 +1,5 @@
 # Resume
-![Whiskey Drop preview]( "Website preview at different resolutions") 
+![WEB Developer Resume]( "Website preview at different resolutions") 
 ## Live Project
 [View the live website on GitHub Pages]()
 
